@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Carlos</h1>
-<h3 align="center">Amante de jogos, músicas e tecnologias no geral</h3>
+<h3 align="center">Amante de jogos e tecnologias no geral</h3>
 
 - 🌱 I’m currently learning **MySql, Python, JavaScript**
 
